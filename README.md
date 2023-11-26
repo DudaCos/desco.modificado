@@ -1,2 +1,2 @@
-# desco.modificado
-alteração de cor
+# Descomplica modificado
+Alteração de cor
